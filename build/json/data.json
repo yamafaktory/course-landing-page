@@ -1,0 +1,116 @@
+{
+  "logo": "/images/svg/hawking.svg",
+  "hero": {
+    "title": "The Universe in a Nutshell",
+    "subtitle": "An awesome course you definitely need to watch!",
+    "video": {
+      "poster": "http://d2mtuel436pcq3.cloudfront.net/Vault/Thumb?VaultID=74&Mode=D&t=1386713489&ResX=750&ResY=422",
+      "mp4" : "http://d2mtuel436pcq3.cloudfront.net/static/322.mp4?v=1386713489",
+      "webm" : "http://d2mtuel436pcq3.cloudfront.net/static/325.webm?v=1386713489"
+    }
+  },
+  "description": {
+    "heading": "Course description",
+    "content":  "Hawking attempts to deal with these questions (and where we might look for answers) using a minimum of technical jargon. Among the topics gracefully covered are gravity, black holes, the Big Bang, the nature of time and physicists' search for a grand unifying theory.",
+    "image": {
+      "small": "/images/bitmap/description.jpg",
+      "large": "/images/bitmap/description-large.jpg"
+    }
+  },
+  "instructor": {
+    "name": "Stephen Hawking",
+    "heading": "Physicist, Scientist",
+    "description": "Stephen Hawking is the former Lucasian Professor of Mathematics at the University of Cambridge and author of A Brief History of Time which was an international bestseller. Now Director of Research at the Department of Applied Mathematics and Theoretical Physics and Founder of the Centre for Theoretical Cosmology at Cambridge, his other books for the general reader include A Briefer History of Time, the essay collection Black Holes and Baby Universe and The Universe in a Nutshell.",
+    "image": {
+      "small": "/images/bitmap/hawking.jpg",
+      "large": "/images/bitmap/hawking-large.jpg"
+    }
+  },
+  "testimonials": [
+    {
+      "name": "Ariel Waldman",
+      "position": "NASA Engineer",
+      "quote": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae!",
+      "rate": "89",
+      "image": "/images/bitmap/ariel-waldman.jpg"
+    },
+    {
+      "name": "Albert Einstein",
+      "position": "Cool Guy",
+      "quote": "Uber cool!",
+      "rate": 77,
+      "image": "/images/bitmap/albert-einstein.jpg"
+    },
+    {
+      "name": "Nikola Tesla",
+      "position": "Entrepreneur",
+      "quote": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "rate": 95,
+      "image": "/images/bitmap/nikola-tesla.jpg"
+    }
+  ],
+  "curriculum": {
+    "heading": "Course curriculum",
+    "lectures": [
+      {
+        "name": "Quantum mechanics",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "name": "M-theory",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "name": "11-dimensional supergravity",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "name": "10-dimensional membranes",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "name": "Superstrings",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "name": "P-branes",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "name": "Black holes",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      }
+    ],
+    "video": {
+      "poster": "http://d2mtuel436pcq3.cloudfront.net/Vault/Thumb?VaultID=66&Mode=D&t=1386713489&ResX=750&ResY=422",
+      "mp4" : "http://d2mtuel436pcq3.cloudfront.net/static/760.mp4?v=1386713489",
+      "webm" : "http://d2mtuel436pcq3.cloudfront.net/static/763.webm?v=1386713489"
+    }
+  },
+  "faq": [
+    {
+      "question": "What will I get by taking this course?",
+      "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "question": "Are there any pre-requirements?",
+      "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "question": "How will I be able to access the learning material?",
+      "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "question": "What is the target audience?",
+      "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "question": "What if I am unsatisfied with the course?",
+      "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+      "question": "For how long will the course be accessible?",
+      "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<section>
+  <div id="hero-video-container" ng-click="landing.hero.showControl = !landing.hero.showControl">
+    <video poster="{{ landing.hero.video.poster }}" id="hero-video">
+      <source ng-src="{{ landing.hero.video.webm }}">
+      <source ng-src="{{ landing.hero.video.mp4 }}">
+    </video>
+    <div class="container" id="hero-control">
+      <div id="hero-content-container">
+        <div ng-show="landing.hero.showControl" id="hero-content">
+          <a href="#"><img src="/images/svg/play.svg" id="play"></a>
+          <h1>{{ landing.hero.title }}</h1>
+          <h2>{{ landing.hero.subtitle }}</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

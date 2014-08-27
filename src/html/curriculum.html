@@ -1,0 +1,29 @@
+<section>
+  <div class="container">
+    <div id="course-curriculum">
+      <h2>{{ landing.curriculum.heading }}</h2>
+      <div class="row">
+        <div class="col-md-4">
+          <video poster="{{ landing.curriculum.video.poster }}" id="curriculum-video">
+            <source ng-src="{{ landing.curriculum.video.webm }}">
+            <source ng-src="{{ landing.curriculum.video.mp4 }}">
+          </video>
+          <div id="curriculum-control">
+            <img src="/images/svg/play.svg" id="curriculum-play">
+          </div>
+          <h3>Free lecture preview</h3>
+        </div>
+        <div class="col-md-4">
+          <div ng-repeat="lecture in landing.curriculum.lectures" ng-if="$even">
+            <lecture></lecture>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div ng-repeat="lecture in landing.curriculum.lectures" ng-if="$odd">
+            <lecture></lecture>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
